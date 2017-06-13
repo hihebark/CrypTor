@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/home/fauxcon/Workspace/CrypTor/app/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/root/.android/build-cache/779bd5f38ed36b67017331af3b4d7b4004b27605/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/fauxcon/Workspace/CrypTor/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/root/.android/build-cache/779bd5f38ed36b67017331af3b4d7b4004b27605/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/fauxcon/Workspace/CrypTor/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/root/.android/build-cache/779bd5f38ed36b67017331af3b4d7b4004b27605/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/fauxcon/Workspace/CrypTor/app/build/intermediates/res/merged/debug/color-v23/design_tint_password_toggle.xml",
+        "source": "/root/.android/build-cache/5b837a42794b956101c8b1577278fcca426ad41c/output/res/color-v23/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/home/fauxcon/Workspace/CrypTor/app/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/root/.android/build-cache/779bd5f38ed36b67017331af3b4d7b4004b27605/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/fauxcon/Workspace/CrypTor/app/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/root/.android/build-cache/779bd5f38ed36b67017331af3b4d7b4004b27605/output/res/color-v23/abc_tint_edittext.xml"
+    },
+    {
+        "merged": "/home/fauxcon/Workspace/CrypTor/app/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/root/.android/build-cache/779bd5f38ed36b67017331af3b4d7b4004b27605/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/fauxcon/Workspace/CrypTor/app/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/root/.android/build-cache/779bd5f38ed36b67017331af3b4d7b4004b27605/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/fauxcon/Workspace/CrypTor/app/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/root/.android/build-cache/779bd5f38ed36b67017331af3b4d7b4004b27605/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/fauxcon/Workspace/CrypTor/app/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/root/.android/build-cache/779bd5f38ed36b67017331af3b4d7b4004b27605/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/fauxcon/Workspace/CrypTor/app/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/root/.android/build-cache/779bd5f38ed36b67017331af3b4d7b4004b27605/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    }
+]

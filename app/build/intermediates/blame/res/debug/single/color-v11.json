@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/fauxcon/Workspace/CrypTor/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/root/.android/build-cache/779bd5f38ed36b67017331af3b4d7b4004b27605/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/home/fauxcon/Workspace/CrypTor/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/root/.android/build-cache/779bd5f38ed36b67017331af3b4d7b4004b27605/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]

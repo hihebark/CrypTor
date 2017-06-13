@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/smsLinearlayout"
+    android:padding="6dp"
+    android:gravity="end"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="UseCompoundDrawables">
+    <TextView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/message_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxWidth="300dp"
+        android:textColor="#fff"
+        android:gravity="right"
+        android:padding="16dp"
+        android:background="@drawable/in_message_bg"/>
+</LinearLayout>

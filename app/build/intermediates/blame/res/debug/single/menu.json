@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/fauxcon/Workspace/CrypTor/app/build/intermediates/res/merged/debug/menu/files_list_single_choice.xml",
+        "source": "/root/.android/build-cache/b059504db87dec5e4a043e4d50e58d0f55668ab6/output/res/menu/files_list_single_choice.xml"
+    },
+    {
+        "merged": "/home/fauxcon/Workspace/CrypTor/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/fauxcon/Workspace/CrypTor/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/fauxcon/Workspace/CrypTor/app/build/intermediates/res/merged/debug/menu/activity_main_drawer.xml",
+        "source": "/home/fauxcon/Workspace/CrypTor/app/src/main/res/menu/activity_main_drawer.xml"
+    },
+    {
+        "merged": "/home/fauxcon/Workspace/CrypTor/app/build/intermediates/res/merged/debug/menu/files_list_multi_choice.xml",
+        "source": "/root/.android/build-cache/b059504db87dec5e4a043e4d50e58d0f55668ab6/output/res/menu/files_list_multi_choice.xml"
+    }
+]

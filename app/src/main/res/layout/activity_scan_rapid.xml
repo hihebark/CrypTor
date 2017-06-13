@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="hihebark.cryptor.ScanRapidActivity"
+    android:orientation="vertical"
+    android:background="#cde9e0">
+    <Button
+        android:id="@+id/btnscan"
+        android:layout_marginTop="15dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:background="@color/light_red"
+        android:textColor="#fff"
+        android:text="@string/btn_scan"/>
+    <TextView
+        android:id="@+id/txtupprgsbr"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/txt_down_btn_scan"
+        android:gravity="center"
+        android:layout_marginTop="25dp"
+        android:visibility="invisible"/>
+    <ProgressBar
+        android:id="@+id/progressbarscan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="invisible"
+        android:layout_marginTop="50dp"/>
+    <TextView
+        android:id="@+id/txtscan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="25dp"/>
+    <ImageView
+        android:id="@+id/imgrocket"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:src="@drawable/rocket"
+        tools:ignore="ContentDescription" />
+
+
+</LinearLayout>

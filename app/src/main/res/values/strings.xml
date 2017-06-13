@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">CrypTor</string>
+    <string name="title_activity_main2">CrypTor</string>
+    <string name="title_activity_scan_rapid">Scan rappid</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Préférence</string>
+    <string name="btn_crypter">Chiffrer</string>
+    <string name="btn_decrypter">Dechiffrer</string>
+    <string name="btn_scan">Scanner</string>
+    <string name="Information_Device"><b>Device Information:</b></string>
+    <string name="txt_mdp_oub"><u>Mot de pass oublier?</u></string>
+    <string name="txt_mdp"><u>password</u></string>
+    <string name="txt_down_btn_scan">Scan on cour Veillez patienter \nquelque minute ...</string>
+    <string name="uo_pattern_message">Dessiner votre shema</string>
+    <string name="login_password_output">Password</string>
+    <string name="racourci_application">Application racourci</string>
+    <string name="up_lock_connexion">Dessiner votre schéma pour se connecter</string>
+    <string name="up_lock_verification_shema">Réentrer votre schéma</string>
+    <string name="up_lock_inscription">Premier pas!. Dessiner un schéma pour s\'inscrire</string>
+
+    <string name="txt_free_memory">RAM libre</string>
+    <string name="txt_used_memory">Batterie status</string>
+    <string name="txt_total_memory">RAM utilisé</string>
+    <string name="txt_memory_internal">Memoire interne</string>
+    <string name="_number_exemple">0666666666</string>
+    <string name="sms_tape">Sms tape somthing ...</string>
+    <string name="NothingToShow">Pas de SMS Envoyer ni reçu</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_settings">Settings</string>
+
+
+</resources>

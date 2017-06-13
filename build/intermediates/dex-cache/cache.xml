@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/8355798c6dcffd4f8e67dfe5e2be6f947e52f559/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9ed08fab37c3a572da1d9ed2bf2e36c8d3e2bc48">
+        <dex dex="/home/fauxcon/Workspace/CrypTor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9798e3a8addfa9ff7140c4d4b5c1e2c337c89a2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/e4731d2b508ebeeb185c618bfa38d03addb1c4e1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5803db663655ef5cb38c6bcb17ba326fdb9edfbd">
+        <dex dex="/home/fauxcon/Workspace/CrypTor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dc38aa9c17f2daec439ab753a27b759e0f954089/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/55f1d2742ae9ffeb04b3f3b919a455b098a521e1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b50fe5288bba9d1635ba619bd3c308319205543e">
+        <dex dex="/home/fauxcon/Workspace/CrypTor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6456b0227504db2962d9aa05e9bf1ef1aa198284/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fauxcon/Workspace/CrypTor/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="/home/fauxcon/Workspace/CrypTor/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_7db80a78afc970a3b122637adf0d8ff77f49705f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/fauxcon/Workspace/CrypTor/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a4331f93e467e0b8a98f05d1fd6ed6c825807a19">
+        <dex dex="/home/fauxcon/Workspace/CrypTor/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_39536d02ee245af6118a01ddc1d97415d3ea57c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/463ae018932ccb459ed3f05556d89673a95a5a6a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43df709c95f6b0501b3adbc7da992b6a69a03214">
+        <dex dex="/home/fauxcon/Workspace/CrypTor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_87ff0f89760dce0a98e837f4d3d1c4bb3d0d6c47/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/b03a5f6ab797875682cd08e81cb4831e0e26aefa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="143e5647b772c08c9f0d807b24bbc0b05ff6c7d2">
+        <dex dex="/home/fauxcon/Workspace/CrypTor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dc8cc5c706e155eecb519918b7097a386d87cfad/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/1f52966faa7d77223496967d1cf975bf849cfd9d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29e4e634375ab2ed25f8db5387b564c78980422a">
+        <dex dex="/home/fauxcon/Workspace/CrypTor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cda9d8134972c1ada385f1e1453aeb29a8a5d199/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/23c69167105990301f3a652c30d2186ed3597000/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4eeba61bbc47e49a5fbdfd9aa21af5d10bf4df7c">
+        <dex dex="/home/fauxcon/Workspace/CrypTor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d60de7d85534c661119d485c5f0b4fa8b30e5816/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/root/.android/build-cache/8b4827029ab63e5f17239c95ba08d416ed9e28da/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="54933c89f90a872aa342004e82b23e776fe12736">
+        <dex dex="/home/fauxcon/Workspace/CrypTor/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a6bc1ce27f3a4e4488f4508c1dc0b3fa2d9ad7e/classes.dex" />
+    </item>
+
+</items>

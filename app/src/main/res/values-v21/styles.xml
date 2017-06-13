@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="DarkTheme" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/DarkcolorPrimary</item>
+        <item name="colorPrimaryDark">@color/DarkcolorPrimaryDark</item>
+        <item name="colorAccent">@color/DarkcolorAccent</item>
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:colorBackground">?android:attr/colorControlHighlight</item>
+        <item name="android:windowBackground">@color/Darker</item>
+        <item name="android:textColorPrimary">@color/light</item>
+    </style>
+</resources>

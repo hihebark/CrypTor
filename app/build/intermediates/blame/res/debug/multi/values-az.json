@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/home/fauxcon/Workspace/CrypTor/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-az/values-az.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 220,
+                    "endOffset": 321
+                },
+                "from": {
+                    "file": "/root/.android/build-cache/8355798c6dcffd4f8e67dfe5e2be6f947e52f559/output/res/values-az/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 285,
+                        "endColumn": 220,
+                        "endOffset": 505
+                    }
+                }
+            }
+        ]
+    }
+]

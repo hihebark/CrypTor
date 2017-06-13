@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "138367704966",
+    "firebase_url": "https://cryptor-852d0.firebaseio.com",
+    "project_id": "cryptor-852d0",
+    "storage_bucket": "cryptor-852d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138367704966:android:f35edbce17f2a479",
+        "android_client_info": {
+          "package_name": "hihebark.cryptor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138367704966-qkc90o6kde6f8mq7n10nn12v9cqsrgsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAMqjK93aIJ-2qCHfaOTlW63UHyC61apU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -30,7 +30,7 @@ import javax.crypto.spec.SecretKeySpec;
 
 public class FileOperation {
     String PASSWORD_FILE;
-    String SALT2 = "CryptorSALT2";
+    String SALT2 = "PASSWORD-HERE";
     public static byte[] IV_VECTOR = new byte[] { 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0};
 
     public FileOperation(String PASSWORD_FILE){
